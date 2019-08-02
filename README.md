@@ -1,2 +1,0 @@
-# MathewApanovichPortfolio
-My portfolio website
