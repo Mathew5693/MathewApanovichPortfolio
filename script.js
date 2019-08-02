@@ -9,7 +9,7 @@ function throwProject(){
             <div class="project p1">
             
               <ul>
-        <li>${STORE[0].project}</li>
+        <li><strong>${STORE[0].project}</strong></li>
         <li><a href="${STORE[0].thumb}" target="_blank"><img src="${STORE[0].thumb}"></a></li>
         <li><a href="${STORE[0].app}" target="_blank">App Demo</a></li>
         <li><a href="${STORE[0].repo}" target="_blank">Repository</a></li>
@@ -23,6 +23,14 @@ function throwProject(){
         <div class="column">
         <section>
             <div class="project p2">
+
+            <ul>
+        <li><strong>${STORE[1].project}</strong></li>
+        <li><a href="${STORE[1].thumb}" target="_blank"><img src="${STORE[1].thumb}"></a></li>
+        <li><a href="${STORE[1].app}" target="_blank">App Demo</a></li>
+        <li><a href="${STORE[1].repo}" target="_blank">Repository</a></li>
+        <li>${STORE[1].skills}</li>
+        <li class="desc">${STORE[1].desc}</li>
             
            </div>
         </section>

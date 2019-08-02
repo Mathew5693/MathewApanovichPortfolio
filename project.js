@@ -8,25 +8,28 @@ const STORE = [
   thumb: 'proj1thumb.jpg'
   },
   {
-  project:'Test 2',
-  desc:'This is a description of proj 2',
-  skills:'skills/logos',
-  repo:'https://github.com/Mathew5693',
-  app:'https://repl.it/@Mathew5693/QuizApp'
+  project:'MarvelAPI-HeroSearch',
+  desc:'Utilize Marvel API to create a website for users to query and learn about Marvel Heroes.',
+  skills:'CSS, HTML5, JS, API',
+  repo:'https://github.com/Mathew5693/MarvelAPICapstone',
+  app:'https://mathew5693.github.io/MarvelAPICapstone/',
+  thumb: 'MarvelAPIThumb.jpg'
   }
   ,
   {
-  project:'Test 3',
-  desc:'this is a description of proj 3',
-  skills:'skills/logos',
-  repo:'https://github.com/Mathew5693',
-  app:'https://repl.it/@Mathew5693/QuizApp'
+  project:'',
+  desc:'',
+  skills:'',
+  repo:'',
+  app:'',
+  thumb: ''
   },
   {
-  project:'Test 4',
-  desc:'this is a description of proj 4',
-  skills:'skills/logos',
-  repo:'https://github.com/Mathew5693',
-  app:'https://repl.it/@Mathew5693/QuizApp'
+  project:'',
+  desc:'',
+  skills:'',
+  repo:'',
+  app:'',
+  thumb: ''
   }
 ];
